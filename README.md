@@ -1,9 +1,6 @@
 # Project Intune Deployment
 Package for deploying Microsoft Project via Microsoft Intune using built in MDT component
 
-# Visio Intune Deployment
-Package for deploying Microsoft Intune via Microsoft Intune using built in MDT component
-
 Deploy app via Intune
 
 Select a Windows app (Win32) 
