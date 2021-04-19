@@ -18,6 +18,7 @@ Logo: Upload logo PNG from root folder
 Program Details
 ------------------------
 Install: .\ServiceUI.exe -Process:explorer.exe Deploy-Application.exe
+
 Uninstall: .\ServiceUI.exe -Process:explorer.exe Deploy-Application.exe -DeploymentType Uninstall
 
 Detection Details
