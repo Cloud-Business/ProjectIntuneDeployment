@@ -1,0 +1,10 @@
+<Configuration ID="c3089e9b-4891-4ccb-b7a1-8ac5f42ee68a">
+  <Remove Version="MatchInstalled">
+    <Product ID="ProjectProRetail">
+      <Language ID="MatchInstalled" TargetProduct="All" />
+      <ExcludeApp ID="Groove" />
+    </Product>
+  </Remove>
+<Display Level="None" AcceptEULA="TRUE"/>
+<Property Name="FORCEAPPSHUTDOWN" Value="TRUE"/>
+</Configuration>
