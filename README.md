@@ -5,7 +5,7 @@ Deploy app via Intune
 
 Select a Windows app (Win32) 
 
-Select the .intune file for the Visio install
+Select the .intune file for the Project install
 
 App Install Details
 ------------------------
